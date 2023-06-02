@@ -2,8 +2,8 @@ import requests
 import json
 
 # Replace with your actual client ID and client secret
-client_id = "e99110d72c6e4556a2e6a7bdb1a30433"
-client_secret = "7BvG4Jf9uxR6SQUZw08EmI25kgbcNWT3dsY1yozt"
+client_id = ""
+client_secret = ""
 
 # CrowdStrike OAuth2 endpoint and Intel API endpoint
 token_url = "https://api.crowdstrike.com/oauth2/token"
